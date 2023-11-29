@@ -1,8 +1,4 @@
-// written by Cipherence
-// compiled with Dev-C++
-// use, re-write, claim as your own. whatever
-// he you learn, it lacks comments
-//sprintf(cmd,"grep %s apptmt.txt | cut -f1,3 -d \",\" | sort -t , -k 2 | tee log",name);
+
 #include<iostream>
 #include<fstream>
 //#include<conio.h>
